@@ -24,7 +24,7 @@ Requires **Python 3.10 to 3.12**.
 
 > **Python version used:** This project was developed and tested with **Python 3.10**.
 
-    git clone https://github.com/<your-username>/custom-index-builder.git
+    git clone https://github.com/<archithasundar>/custom-index-builder.git
     cd custom-index-builder
 
     python -m venv .venv
