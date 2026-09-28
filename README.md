@@ -48,7 +48,8 @@ The generator uses a fixed random seed (`42`), so it produces the same data ever
 
 ## Project structure
 
-``` custom-index-builder/
+```
+custom-index-builder/
 ├── app.py
 ├── src/
 │   ├── __init__.py
@@ -60,8 +61,8 @@ The generator uses a fixed random seed (`42`), so it produces the same data ever
 │   ├── stocks.csv
 │   └── daily_prices.csv
 ├── requirements.txt
-└── README.md ```
-
+└── README.md
+```
 
 ## Architecture
 
