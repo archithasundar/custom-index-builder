@@ -1,0 +1,31 @@
+ticker,company_name,sector,market_cap
+TECH01,Vertex Digital Systems,Technology,95000
+TECH02,Nexora Computing,Technology,72000
+TECH03,QuantumGrid Software,Technology,58000
+TECH04,BluePeak Networks,Technology,41000
+TECH05,Orion Data Labs,Technology,28000
+BANK01,Northstar Financial,Banking & Finance,88000
+BANK02,Summit Capital Group,Banking & Finance,69000
+BANK03,Harborline Bank,Banking & Finance,52000
+BANK04,Evergreen Credit,Banking & Finance,36000
+BANK05,Atlas Financial Services,Banking & Finance,22000
+HLTH01,Medivance Health,Healthcare,76000
+HLTH02,WellSpring Medical,Healthcare,61000
+HLTH03,Genova Therapeutics,Healthcare,47000
+HLTH04,CarePoint Diagnostics,Healthcare,33000
+HLTH05,LifeBridge Health,Healthcare,19000
+ENRG01,TerraCore Energy,Energy,84000
+ENRG02,Suncrest Resources,Energy,67000
+ENRG03,BlueRiver Energy,Energy,49000
+ENRG04,Frontier Power,Energy,31000
+ENRG05,GreenPeak Renewables,Energy,17000
+CONS01,UrbanNest Retail,Consumer Goods,73000
+CONS02,Everyday Brands,Consumer Goods,56000
+CONS03,PrimeChoice Foods,Consumer Goods,43000
+CONS04,MarketSquare Goods,Consumer Goods,29000
+CONS05,FreshWay Consumer,Consumer Goods,16000
+MFG01,IronGate Manufacturing,Manufacturing & Infrastructure,80000
+MFG02,PrecisionWorks Manufacturing,Manufacturing & Infrastructure,62000
+MFG03,MetroCore Engineering,Manufacturing & Infrastructure,45000
+MFG04,Westfield Logistics,Manufacturing & Infrastructure,30000
+MFG05,BuildRight Infrastructure,Manufacturing & Infrastructure,14000
