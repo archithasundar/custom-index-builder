@@ -213,7 +213,7 @@ def calculate_index(
     # Create FULL price matrix
     # ----------------------------------------------
     #
-    # We create the matrix using the complete available
+    # Over here, I have created the matrix using the complete available
     # history, not only the user's selected date range.
     #
     # This is important for Forward Fill:
