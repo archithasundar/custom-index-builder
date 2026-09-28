@@ -48,19 +48,20 @@ The generator uses a fixed random seed (`42`), so it produces the same data ever
 
 ## Project structure
 
-    custom-index-builder/
-      app.py                    Streamlit UI
-      src/
-        __init__.py
-        data_loader.py          Reads and validates the CSV files
-        calculator.py           Weighting strategies and index calculation
-      scripts/
-        generate_data.py        Creates the dummy stock and price data
-      data/
-        stocks.csv              Stock universe (30 rows)
-        daily_prices.csv        Daily close prices
-      requirements.txt
-      README.md
+custom-index-builder/
+├── app.py
+├── src/
+│   ├── __init__.py
+│   ├── data_loader.py
+│   └── calculator.py
+├── scripts/
+│   └── generate_data.py
+├── data/
+│   ├── stocks.csv
+│   └── daily_prices.csv
+├── requirements.txt
+└── README.md
+
 
 ## Architecture
 
